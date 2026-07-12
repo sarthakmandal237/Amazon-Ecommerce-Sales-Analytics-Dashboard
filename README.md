@@ -186,21 +186,21 @@ Features:
 
 ## 📸 Dashboard Preview
 
-### Page 1
+### 📄 Page 1 – Amazon Sales Dashboard
 
-*(Add Screenshot Here)*
-
----
-
-### Page 2
-
-*(Add Screenshot Here)*
+![Amazon Sales Dashboard](Images/dashboard_page1.png)
 
 ---
 
-### Page 3
+### 📄 Page 2 – Product & Customer Insights
 
-*(Add Screenshot Here)*
+![Product & Customer Insights](Images/dashboard_page2.png)
+
+---
+
+### 📄 Page 3 – Business Insights
+
+![Business Insights](Images/dashboard_page3.png)
 
 ---
 
