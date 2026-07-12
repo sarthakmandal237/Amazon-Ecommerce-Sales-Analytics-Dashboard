@@ -61,7 +61,7 @@ Amazon-Ecommerce-Sales-Analytics/
 ├── PowerBI/
 │   └── Amazon_Sales_Dashboard.pbix
 │
-├── Screenshots/
+├── Images/
 │   ├── dashboard_page1.png
 │   ├── dashboard_page2.png
 │   └── dashboard_page3.png
